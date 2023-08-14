@@ -1,0 +1,21 @@
+{
+  "name": "Mouth Storage",
+  "description": "Hold items in your mouth.",
+  "badges": [
+    {
+      "type": "origins:keybind",
+      "sprite": "origins:textures/gui/badge/active.png",
+      "text": "Active ability, use with %s."
+    },
+    {
+      "sprite": "origins:textures/gui/badge/info.png",
+      "text": "Items in your mouth don't drop on death."
+    }
+  ],
+  "type": "origins:inventory",
+  "drop_on_death": false,
+  "key": {
+    "key": "key.origins.secondary_active",
+    "continuous": false
+  }
+}

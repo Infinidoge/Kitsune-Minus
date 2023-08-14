@@ -1,0 +1,16 @@
+{
+  "name": "Kitsune Minus",
+  "description": "Foxy explorers.",
+  "powers": [
+    "kitsune_minus:pounce",
+    "kitsune_minus:energetic",
+    "kitsune_minus:fall_immunity",
+    "kitsune_minus:bounce",
+    "kitsune_minus:mouth_stash",
+    "kitsune_minus:mouth_stash_sound"
+  ],
+  "icon": {
+    "item": "minecraft:sweet_berries"
+  },
+  "impact": 1
+}
