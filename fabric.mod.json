@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "kitsune-minus",
+  "version": "@VERSION@",
+  "name": "Kitsune Minus",
+  "description": "Foxy explorers with a touch of Origins Minus' simplicity.",
+  "authors": ["Infinidoge"],
+  "contact": {
+    "homepage": "https://modrinth.com/datapack/kitsune-minus",
+    "issues": "https://github.com/Infinidoge/kitsune-minus/issues",
+    "sources": "https://github.com/Infinidoge/kitsune-minus"
+  },
+  "license": "CC0-1.0",
+  "icon": "pack.png",
+  "environment": "*",
+  "depends": {
+    "fabricloader": "*",
+    "minecraft": ">=1.19",
+    "origins": "*"
+  }
+}

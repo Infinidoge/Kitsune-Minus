@@ -4,6 +4,6 @@
     "id": "kitsune_minus",
     "pack_format": 10,
     "authors": ["Infinidoge"],
-    "description": "A Kitsune Origin in the style of Origins Minus"
+    "description": "@DESCRIPTION@ v@VERSION@"
   }
 }
